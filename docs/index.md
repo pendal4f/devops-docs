@@ -13,4 +13,3 @@
 
 Адрес будущего сайта: `https://pendal4f.github.io/devops-docs/`.
 
-См. [несуществующую страницу](missing-page.md).
